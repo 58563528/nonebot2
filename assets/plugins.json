@@ -1744,18 +1744,6 @@
     "is_official": false
   },
   {
-    "module_name": "nonebot_plugin_sqlalchemy",
-    "project_link": "nonebot-plugin-sqlalchemy",
-    "author": "ssttkkl",
-    "tags": [
-      {
-        "label": "sql",
-        "color": "#ad1717"
-      }
-    ],
-    "is_official": false
-  },
-  {
     "module_name": "nonebot_plugin_blacklist",
     "project_link": "nonebot-plugin-blacklist",
     "author": "tkgs0",
@@ -4144,13 +4132,6 @@
     "module_name": "nonebot_plugin_follow_withdraw",
     "project_link": "nonebot-plugin-follow-withdraw",
     "author": "CMHopeSunshine",
-    "tags": [],
-    "is_official": false
-  },
-  {
-    "module_name": "nonebot_plugin_error_alert",
-    "project_link": "nonebot-plugin-error-alert",
-    "author": "ssttkkl",
     "tags": [],
     "is_official": false
   },
@@ -7369,6 +7350,52 @@
       {
         "label": "unsafe",
         "color": "#ea5252"
+      }
+    ],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_picsetu",
+    "project_link": "nonebot-plugin-picsetu",
+    "author": "zhongwen-4",
+    "tags": [],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_gotify",
+    "project_link": "nonebot-plugin-gotify",
+    "author": "snowykami",
+    "tags": [
+      {
+        "label": "gotify",
+        "color": "#6eddff"
+      },
+      {
+        "label": "通知推送",
+        "color": "#6eddff"
+      }
+    ],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_voicemusic",
+    "project_link": "nonebot-plugin-voicemusic",
+    "author": "Onimaimai",
+    "tags": [],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_fishspeech_tts",
+    "project_link": "nonebot-plugin-fishspeech-tts",
+    "author": "Cvandia",
+    "tags": [
+      {
+        "label": "TTS",
+        "color": "#23e907"
+      },
+      {
+        "label": "语音合成",
+        "color": "#e9297f"
       }
     ],
     "is_official": false

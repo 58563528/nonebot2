@@ -18,12 +18,17 @@ toc_max_heading_level: 2
 
 ### 💫 杂项
 
+- Plugin: 移除不再维护的插件 [@ssttkkl](https://github.com/ssttkkl) ([#3040](https://github.com/nonebot/nonebot2/pull/3040))
 - Plugin: 删除不再维护的 simplemusic hikarisearch 插件 [@MeetWq](https://github.com/MeetWq) ([#2933](https://github.com/nonebot/nonebot2/pull/2933))
 - Plugin: 删除插件 `nonebot-plugin-ntqq-restart` [@kanbereina](https://github.com/kanbereina) ([#2926](https://github.com/nonebot/nonebot2/pull/2926))
 - Adapter: 移除社区版 mirai 适配器 [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) ([#2909](https://github.com/nonebot/nonebot2/pull/2909))
 
 ### 🍻 插件发布
 
+- Plugin: FishSpeechTTS [@noneflow](https://github.com/noneflow) ([#3050](https://github.com/nonebot/nonebot2/pull/3050))
+- Plugin: 语音点歌 [@noneflow](https://github.com/noneflow) ([#3037](https://github.com/nonebot/nonebot2/pull/3037))
+- Plugin: Gotify [@noneflow](https://github.com/noneflow) ([#3043](https://github.com/nonebot/nonebot2/pull/3043))
+- Plugin: 涩图插件 [@noneflow](https://github.com/noneflow) ([#3039](https://github.com/nonebot/nonebot2/pull/3039))
 - Plugin: boom [@noneflow](https://github.com/noneflow) ([#3017](https://github.com/nonebot/nonebot2/pull/3017))
 - Plugin: 恶魔轮盘赌 [@noneflow](https://github.com/noneflow) ([#3033](https://github.com/nonebot/nonebot2/pull/3033))
 - Plugin: 机厅 [@noneflow](https://github.com/noneflow) ([#3029](https://github.com/nonebot/nonebot2/pull/3029))
